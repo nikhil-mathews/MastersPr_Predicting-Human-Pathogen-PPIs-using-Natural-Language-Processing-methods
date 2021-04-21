@@ -1,5 +1,6 @@
-# MastersP_Predicting-Human-Pathogen-PPIs-using-Natural-Language-Processing-methods
-We use advanced Natural Language Processing (NLP) methods available in deep learning and apply them to the proteins of Humans and Yersinia pestis. This is done by using the amino acid sequences of each protein pair that interact, or do not. We make no use of biological knowledge, and trust that the deep neural networks learns them implicitly during training to produce results that rival the reference research paper which makes extensive use of bio-chemical properties, both sequential and network related, to make their predictions.
+# Masters Project: Predicting Human-Pathogen Protein-Protein Interactions using Natural Language Processing methods
+We use multiple Natural Language Processing (NLP) methods available in deep learning and apply them to predict the interaction of proteins between Humans and Yersinia
+pestis by examining their respective amino acid sequences. Without making any use of biological knowledge, a model is developed that gives a cross validation AUC score of 0.91 and an independent test score of 0.92, which rivals the reference research paper1that uses amino acid sequence and network data as well as extensive use of bio-chemical properties, both sequential and network related, to make their predictions. This is done by combining advanced tools in neural machine translation into an integrated end-to-end deep learning framework as well as methods of preprocessing that are novel to the field of bioinformatics.
 
 # Foobar
 
