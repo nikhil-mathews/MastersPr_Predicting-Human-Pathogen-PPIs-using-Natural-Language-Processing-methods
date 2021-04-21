@@ -2,7 +2,8 @@
 We use multiple Natural Language Processing (NLP) methods available in deep learning and apply them to predict the interaction of proteins between Humans and Yersinia
 pestis by examining their respective amino acid sequences. Without making any use of biological knowledge, a model is developed that gives a cross validation AUC score of 0.91 and an independent test score of 0.92, which rivals the reference research paper that uses amino acid sequence and network data as well as extensive use of bio-chemical properties, both sequential and network related, to make their predictions. This is done by combining advanced tools in neural machine translation into an integrated end-to-end deep learning framework as well as methods of preprocessing that are novel to the field of bioinformatics.
 
-![vaccination](https://user-images.githubusercontent.com/52326197/115605509-986a9e00-a2b0-11eb-87f2-0f0c6fd01ae4.JPG)
+![transformers](https://user-images.githubusercontent.com/52326197/115605722-dd8ed000-a2b0-11eb-965f-f583a7dd3a4c.png)
+![final_model](https://user-images.githubusercontent.com/52326197/115605765-ebdcec00-a2b0-11eb-9fe8-05dc1da16fa4.png)
 
 
 # Foobar
