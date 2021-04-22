@@ -7,3 +7,6 @@
 
 ## Combine Configuration
 ![combine_LSTM](https://user-images.githubusercontent.com/52326197/115681517-99d4ae80-a322-11eb-9d3e-bda547281deb.png)
+
+## Stats
+![graphs_LSTM](https://user-images.githubusercontent.com/52326197/115682057-1798ba00-a323-11eb-80fe-4758d43e7439.png)
