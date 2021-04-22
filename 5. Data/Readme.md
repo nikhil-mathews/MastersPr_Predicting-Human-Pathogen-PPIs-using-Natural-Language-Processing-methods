@@ -1,9 +1,9 @@
 ## pickles.rar
 DATA.pkl - All Protein IDs with their attributes. Pandas Dataframe format.
 
-hyppi-independent.pkl - Test amino acid sequences.
+hyppi-independent.pkl - Test amino acid sequences. Pandas Dataframe format.
 
-hyppi-train.pkl - Train amino acid sequences.
+hyppi-train.pkl - Train amino acid sequences. Pandas Dataframe format.
 
 ## hyppi-train.txt
 
