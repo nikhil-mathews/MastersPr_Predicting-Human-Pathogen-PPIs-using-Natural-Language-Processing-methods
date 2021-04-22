@@ -7,3 +7,6 @@
 
 ## Combine_3X configuration
 ![CNN_combine_3X](https://user-images.githubusercontent.com/52326197/115683110-1f0c9300-a324-11eb-85a5-f8c289276f88.png)
+
+## Stats
+![CNN_graphs](https://user-images.githubusercontent.com/52326197/115683576-98a48100-a324-11eb-8e64-d3995a18b429.png)
