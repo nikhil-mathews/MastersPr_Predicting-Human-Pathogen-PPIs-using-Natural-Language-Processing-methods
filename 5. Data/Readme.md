@@ -16,6 +16,6 @@ Source test data. Protein IDs only.
 ## HV_data.rar
 all_data.pkl - All Protein IDs with their attributes. Pandas Dataframe format.
 
-HVtrain_set_group1.txt,HVtrain_set_group2.txt,HVtrain_set_group3.txt - Train Protein IDs for groups 1,2,3
+HVtrain_set_group1.txt, HVtrain_set_group2.txt, HVtrain_set_group3.txt - Train Protein IDs for groups 1,2,3
 
 HVindependent_test_group1.txt, HVindependent_test_group2.txt, HVindependent_test_group3.txt - Test Protein IDs for groups 1,2,3
