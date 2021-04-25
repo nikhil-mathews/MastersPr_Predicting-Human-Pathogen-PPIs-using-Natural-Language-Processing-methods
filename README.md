@@ -3,9 +3,11 @@ We use multiple Natural Language Processing (NLP) methods available in deep lear
 
 One way is to  account  for  the  possibility  that  common  sequence bits or “words” from both species play a role in prediction of interaction and this can be expressed with the help of *combine* configuration.
 
+![combine](https://user-images.githubusercontent.com/52326197/116008184-3deb7d80-a5e1-11eb-90b6-20ce909563db.png)
 
 We also employ a “3X” preprocessing configuration into an end to end framework to account for the possibilty that amino acids sequences from the left, right and center play a role in determining interaction.
 
+![3X](https://user-images.githubusercontent.com/52326197/116008202-4d6ac680-a5e1-11eb-94b6-ffde0e9b8ab5.png)
 
 The performance of Bi-LSTMs and CNN and compared and contrasted with multiple configurations and the best one chosen for the final model.
 Use of Attention layers and Transformers are used and *differential join* configurations for Transformers are explored to give a better result.
