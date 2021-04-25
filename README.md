@@ -10,7 +10,7 @@ We also employ a “3X” preprocessing configuration into an end to end framewo
 ![3X](https://user-images.githubusercontent.com/52326197/116008202-4d6ac680-a5e1-11eb-94b6-ffde0e9b8ab5.png)
 
 The performance of Bi-LSTMs and CNN and compared and contrasted with multiple configurations and the best one chosen for the final model.
-Use of Attention layers and Transformers are used and *differential join* configurations for Transformers are explored to give a better result.
+Attention layers and Transformers are used and *differential join* configurations for Transformers are explored to give a better result.
 
 The Final Model combines “3X CNN” configuration to address the separate nature of the two species and a “3X Transformers” configuration to  account  for  the  possibility  that  common  sequence bits from both species play a role in prediction of interaction. This is found to give competitive results for both Humans - Yersinia PPI as well as Humans - Virus PPI
 ![final](https://user-images.githubusercontent.com/52326197/116008244-89059080-a5e1-11eb-9fea-6e416925c183.png)
