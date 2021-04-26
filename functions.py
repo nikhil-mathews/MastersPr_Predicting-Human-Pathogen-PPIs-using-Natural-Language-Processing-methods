@@ -369,6 +369,7 @@ def load(name):
   with open(directory+''+name+'.pickle', 'rb') as handle:
     return pickle.load(handle)
     
+#Creates and saves Tokenizers for combine config
 def create_tokenizers(df_train):
     ip_train_Human = df_train[['Human']]
     ip_train_Yersinia = df_train[['Yersinia']]
@@ -386,7 +387,8 @@ def create_tokenizers(df_train):
     save(tokenizer,'join_tkr')
     print('Saved tokenizer as join_tkr')
     
-    
+
+#Meant for final model
 def preprocess(df_test, show =False, saveTokrs = True):
     D = len(df_test[['Human']].iloc[0][0][0])
     if D==1:
