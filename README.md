@@ -5,7 +5,7 @@ One way is to  account  for  the  possibility  that  common  sequence bits or �
 
 ![combine](https://user-images.githubusercontent.com/52326197/116008184-3deb7d80-a5e1-11eb-90b6-20ce909563db.png)
 
-We also employ a “3X” preprocessing configuration into an end to end framework to account for the possibilty that amino acids sequences from the left, right and center play a role in determining interaction.
+We also employ a “3X” preprocessing configuration into an end to end framework to account for the possibilty that amino acids sequences from the left, right and center play a role in determining interaction which did not happen earlier due to massive variations in sequence lengths resulting in loss of information due to truncation or supression of information due to padding.
 
 ![3X](https://user-images.githubusercontent.com/52326197/116008202-4d6ac680-a5e1-11eb-94b6-ffde0e9b8ab5.png)
 
